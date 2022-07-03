@@ -29,6 +29,8 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
+#include "../compat_defs.h"
+
 #include <sys/cdefs.h>
 __RCSID("$NetBSD: getport.c,v 1.2 2008/04/28 20:24:14 martin Exp $");
 

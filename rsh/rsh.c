@@ -29,6 +29,8 @@
  * SUCH DAMAGE.
  */
 
+#include "../compat_defs.h"
+
 #include <sys/cdefs.h>
 #ifndef lint
 __COPYRIGHT("@(#) Copyright (c) 1983, 1990, 1993, 1994\

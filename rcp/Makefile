@@ -8,4 +8,7 @@ WARNS=3
 PROG=		rcp
 SRCS=		rcp.c util.c
 
+BINOWN=	root
+BINMODE=4555
+
 .include <bsd.prog.mk>
